@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Honohonoho/blog/honohonoho.github.io.git
-  branch: 
+  repo: git@github.com:Honohonoho/honohonoho.github.io.git
+  branch: develop
